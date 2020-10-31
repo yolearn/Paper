@@ -1,0 +1,12 @@
+HMM
+1. 想一個磁性的文法
+2. 把詞填進去
+
+缺點:
+ 腦補沒有出現的數據 (數據小的時候表現好，因為腦補)
+
+知識:
+    transition probability: probability of transition from one state to another step
+    emission probability(output probability): probability of given y and output o.
+
+CRF
